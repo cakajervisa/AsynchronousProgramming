@@ -1,0 +1,13 @@
+c:\users\darkbound\source\repos\AsynchronousProgramming\AsynchronousProgramming\bin\Debug\AsynchronousProgramming.exe.config
+c:\users\darkbound\source\repos\AsynchronousProgramming\AsynchronousProgramming\bin\Debug\AsynchronousProgramming.exe
+c:\users\darkbound\source\repos\AsynchronousProgramming\AsynchronousProgramming\bin\Debug\AsynchronousProgramming.pdb
+c:\users\darkbound\source\repos\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\AsynchronousProgramming.csproj.CoreCompileInputs.cache
+c:\users\darkbound\source\repos\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\AsynchronousProgramming.exe
+c:\users\darkbound\source\repos\AsynchronousProgramming\AsynchronousProgramming\obj\Debug\AsynchronousProgramming.pdb
+C:\Users\lleka\Documents\Akademia\Seanca 17\07.+AsynchronousProgramming\07. AsynchronousProgramming\AsynchronousProgramming\bin\Debug\AsynchronousProgramming.exe.config
+C:\Users\lleka\Documents\Akademia\Seanca 17\07.+AsynchronousProgramming\07. AsynchronousProgramming\AsynchronousProgramming\bin\Debug\AsynchronousProgramming.exe
+C:\Users\lleka\Documents\Akademia\Seanca 17\07.+AsynchronousProgramming\07. AsynchronousProgramming\AsynchronousProgramming\bin\Debug\AsynchronousProgramming.pdb
+C:\Users\lleka\Documents\Akademia\Seanca 17\07.+AsynchronousProgramming\07. AsynchronousProgramming\AsynchronousProgramming\obj\Debug\AsynchronousProgramming.csprojAssemblyReference.cache
+C:\Users\lleka\Documents\Akademia\Seanca 17\07.+AsynchronousProgramming\07. AsynchronousProgramming\AsynchronousProgramming\obj\Debug\AsynchronousProgramming.csproj.CoreCompileInputs.cache
+C:\Users\lleka\Documents\Akademia\Seanca 17\07.+AsynchronousProgramming\07. AsynchronousProgramming\AsynchronousProgramming\obj\Debug\AsynchronousProgramming.exe
+C:\Users\lleka\Documents\Akademia\Seanca 17\07.+AsynchronousProgramming\07. AsynchronousProgramming\AsynchronousProgramming\obj\Debug\AsynchronousProgramming.pdb
